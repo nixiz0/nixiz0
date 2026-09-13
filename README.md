@@ -1,16 +1,16 @@
-## Hi there 👋
+# Julian / Initium
 
-<!--
-**nixiz0/nixiz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Software Engineer**
 
-Here are some ideas to get you started:
+I started in machine learning and deep learning before progressively expanding into software engineering, data, cloud and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in understanding systems end to end — from the application layer down to the foundations they rely on — and in building environments where AI-assisted development can remain structured, reliable and maintainable.
+
+## Selected work
+
+- [Lite-Brain](https://github.com/nixiz0/Lite-Brain) — Local AI system for document analysis and everyday workflows.
+
+## Links
+
+- [Portfolio](https://initium-portfolio.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/julian-initium-a543a0250/)
