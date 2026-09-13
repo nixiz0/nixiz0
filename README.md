@@ -12,32 +12,6 @@ I like going deeper into the stack to understand how systems actually work: how 
 
 This broader understanding also shapes the way I work with AI agents: strong tooling, conventions and system boundaries matter if AI-assisted development is expected to produce robust software rather than short-lived prototypes.
 
-## 🛠️ Selected work
-
-### [Lux](https://github.com/nixiz0/Lux)
-
-A modular framework for building customizable local AI assistants around a lightweight core, tools and user-facing interfaces.
-
-### [Lite-Brain](https://github.com/nixiz0/Lite-Brain)
-
-A self-hosted local AI system combining document analysis, RAG, local models and a containerized application stack.
-
-### [Local LLM Comparator](https://github.com/nixiz0/Local-LLM-Comparator)
-
-A reproducible environment for benchmarking local LLMs across prompts, metrics, tool use and vision.
-
-### [Basic Artificial Neuron](https://github.com/nixiz0/Basic-Artificial-Neuron)
-
-A from-scratch implementation of artificial neurons and a multilayer perceptron, built to understand the underlying mechanics without relying on high-level AI libraries.
-
-### [Face-Affectus](https://github.com/nixiz0/Face-Affectus)
-
-A computer vision project combining facial emotion recognition, model training and an application layer around the trained model.
-
-### [Lumen](https://github.com/nixiz0/Lumen)
-
-A personal AI assistant combining local models, speech recognition, synthetic voice and system-level interactions.
-
 ## 🔗 Elsewhere
 
 - [Portfolio](https://initium-portfolio.netlify.app/)
