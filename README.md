@@ -24,4 +24,4 @@ A modular framework for building customizable local AI assistants around a light
 
 - [Portfolio](https://initium-portfolio.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/julian-initium-a543a0250/)
-- [YouTube — Hey Initium](https://www.youtube.com/@HeyInitium)
+- [YouTube — Hey Initium](https://www.youtube.com/@Initium0_0)
