@@ -11,3 +11,13 @@ I’m interested in understanding systems end to end from the application layer 
 I like going deeper into the stack to understand how systems actually work: how applications are structured, how they communicate, how they are deployed and operated, and which foundations make them reliable over time.
 
 This broader understanding also shapes the way I work with AI agents: strong tooling, conventions and system boundaries matter if AI-assisted development is expected to produce robust software rather than short-lived prototypes.
+
+## 🗂️ Repository guide
+
+Every repository description starts with a description tag explaining why it exists:
+
+| Tag | What it means |
+|---|---|
+| 🚀 **Project** | Applications, tools and websites built to be used |
+| 🧪 **Lab** | Experiments, proofs of concept and learning by building |
+| 🎓 **Study** | Coursework, exams and course notes from my training |
